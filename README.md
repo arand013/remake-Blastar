@@ -12,14 +12,6 @@ After a successful follow through of a small amount of steps, questions and proc
 * THEN this is displayed as the title of the README
 3. WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
 * THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-4. WHEN I choose a license for my application from a list of options
-* THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-5. WHEN I enter my GitHub username
-* THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-6. WHEN I enter my email address
-* THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-7. WHEN I click on the links in the Table of Contents
-* THEN I am taken to the corresponding section of the README
 
 
 ## Table of Contents
@@ -33,25 +25,30 @@ After a successful follow through of a small amount of steps, questions and proc
 ## Installation
 1. Download it through Github
 
-2. Ensure npm and inquirer is installed ( "npm init" and "npm install inquirer")
+2. Test and Play
 
 ## Usage
 
 1. Open terminal
 
-2. Now, in the read-me-generator "cd" into the develop folder
+2. Now, "cd" into the remake-blastar folder
 
-3. Run & Test by typing "node index.js" 
+3. Run & Test 
 
-4. Answer the prompts that follow
+4. On success a game will be generated
 
-5. On success a README.md will be generated.
+5. Enjoy
 
 ## Contribution
-node index.js 
+HTML
+<br>
+CSS
+<br>
+Javascript
+<br>
 
 ## Tests & Video 
-Enter project testing information here.
+[Game-Link-Here](#INSERT-LINK-HERE)
 
 ## Questions
 For questions about this project, please see <br>
